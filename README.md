@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shubham4576
+- 👋 Hi, I’m @shubham4576. I am Associate Software Engineer working on GenerativeAI.
 - 👀 I’m interested in Development using Python, Java and in automation testing using Selenium.
 - 🌱 I attended Chandigarh University to complete my master's degree in machine learning and artificial intelligence.
 - 💞️ I’m looking to collaborate on ...
