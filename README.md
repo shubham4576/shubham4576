@@ -63,11 +63,11 @@ _(Pinned repositories below showcase these.)_
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shubham4576&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shubham4576&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham4576&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham4576&layout=compact&langs_count=8&cache_seconds=86400" />
 </p>
 
 ---
