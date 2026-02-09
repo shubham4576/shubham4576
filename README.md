@@ -1,5 +1,16 @@
 <h1 align="center">Hi, I'm Shubham 👋</h1>
 <h3 align="center">Software Engineer | Python | AI & GenAI</h3>
+<p align="center">
+  <svg width="200" height="10" viewBox="0 0 200 10">
+    <line x1="20" y1="5" x2="180" y2="5" stroke="#e63946" stroke-width="3">
+      <animate
+        attributeName="stroke-opacity"
+        values="0.3;1;0.3"
+        dur="2.5s"
+        repeatCount="indefinite" />
+    </line>
+  </svg>
+</p>
 
 <p align="center">
 Building backend systems, AI workflows, and automation that actually ships.
@@ -63,11 +74,7 @@ _(Pinned repositories below showcase these.)_
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubham4576&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham4576&layout=compact&langs_count=8&cache_seconds=86400" />
+  <img src="https://streak-stats.demolab.com?user=shubham4576" />
 </p>
 
 ---
