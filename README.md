@@ -82,7 +82,7 @@ _(Pinned repositories below showcase these.)_
 ### 🤝 Let’s Connect
 
 - GitHub: https://github.com/shubham4576  
-- LinkedIn: *(add your LinkedIn link here)*  
+- LinkedIn: www.linkedin.com/in/shubhamluxkar  
 
 ---
 
